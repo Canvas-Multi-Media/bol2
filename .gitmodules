@@ -1,6 +1,7 @@
 [submodule "Odoo-addons"]
 	path = Odoo-addons
 	url = https://github.com/dreambits/Odoo-addons.git
+	branch = 12.0
 
 [submodule "dreambits/Odoo-addons"]
 	path = dreambits/Odoo-addons
